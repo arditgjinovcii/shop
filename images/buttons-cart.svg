@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.007" height="20" viewBox="0 0 20.007 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20.007" height="20" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="icon_action_shopping_cart_24px" data-name="icon/action/shopping_cart_24px" d="M16,20a2,2,0,1,1,2-2A2,2,0,0,1,16,20ZM6,20a2,2,0,1,1,2-2A2,2,0,0,1,6,20Zm11-5H6a2,2,0,0,1-1.75-2.97L5.6,9.59,2,2H1A1,1,0,1,1,1,0H2.64a.986.986,0,0,1,.9.57L4.21,2h14.8a1,1,0,0,1,.87,1.481L16.3,9.97A1.992,1.992,0,0,1,14.55,11H7.1L6,13H17a1,1,0,0,1,0,2Z" transform="translate(13.996 14)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="icon_action_shopping_cart_24px-2" data-name="icon/action/shopping_cart_24px" d="M16,20a2,2,0,1,1,2-2A2,2,0,0,1,16,20ZM6,20a2,2,0,1,1,2-2A2,2,0,0,1,6,20Zm11-5H6a2,2,0,0,1-1.75-2.97L5.6,9.59,2,2H1A1,1,0,1,1,1,0H2.64a.986.986,0,0,1,.9.57L4.21,2h14.8a1,1,0,0,1,.87,1.481L16.3,9.97A1.992,1.992,0,0,1,14.55,11H7.1L6,13H17a1,1,0,0,1,0,2Z" transform="translate(13.996 14)"/>
+    </clipPath>
+  </defs>
+  <g id="buttons_cart" data-name="buttons/cart" clip-path="url(#clip-path)">
+    <g id="Group_Copy" data-name="Group Copy" transform="translate(-13.996 -14)">
+      <path id="icon_action_shopping_cart_24px-3" data-name="icon/action/shopping_cart_24px" d="M16,20a2,2,0,1,1,2-2A2,2,0,0,1,16,20ZM6,20a2,2,0,1,1,2-2A2,2,0,0,1,6,20Zm11-5H6a2,2,0,0,1-1.75-2.97L5.6,9.59,2,2H1A1,1,0,1,1,1,0H2.64a.986.986,0,0,1,.9.57L4.21,2h14.8a1,1,0,0,1,.87,1.481L16.3,9.97A1.992,1.992,0,0,1,14.55,11H7.1L6,13H17a1,1,0,0,1,0,2Z" transform="translate(13.996 14)" fill="#fff"/>
+      <path id="icon_action_shopping_cart_24px-4" data-name="icon/action/shopping_cart_24px" d="M16,20a2,2,0,1,1,2-2A2,2,0,0,1,16,20ZM6,20a2,2,0,1,1,2-2A2,2,0,0,1,6,20Zm11-5H6a2,2,0,0,1-1.75-2.97L5.6,9.59,2,2H1A1,1,0,1,1,1,0H2.64a.986.986,0,0,1,.9.57L4.21,2h14.8a1,1,0,0,1,.87,1.481L16.3,9.97A1.992,1.992,0,0,1,14.55,11H7.1L6,13H17a1,1,0,0,1,0,2Z" transform="translate(13.996 14)"/>
+    </g>
+  </g>
+</svg>

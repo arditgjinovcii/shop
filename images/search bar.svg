@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1004" height="24" viewBox="0 0 1004 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1004" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3"/>
+  </defs>
+  <g id="search_bar" data-name="search bar" clip-path="url(#clip-path)">
+    <rect id="Background-2" data-name="Background" width="1004" height="24" fill="none"/>
+    <g id="Group" transform="translate(980)">
+      <rect id="Rectangle" width="24" height="24" fill="none"/>
+      <path id="icon_action_search_24px" data-name="icon/action/search_24px" d="M16,17.058a1.048,1.048,0,0,1-.745-.307L11,12.5v-.79l-.27-.28A6.518,6.518,0,0,1,6.5,13a6.7,6.7,0,0,1-1.1-.093A6.538,6.538,0,0,1,.05,7.321,6.5,6.5,0,0,1,6.5,0,6.759,6.759,0,0,1,7.321.05a6.493,6.493,0,0,1,4.11,10.68l.28.27h.79l4.24,4.26a1.052,1.052,0,0,1-.745,1.8ZM6.5,2A4.5,4.5,0,1,0,11,6.5,4.505,4.505,0,0,0,6.5,2Z" transform="translate(3.476 3.471)" fill="#3a444c"/>
+    </g>
+  </g>
+</svg>
